@@ -1,14 +1,14 @@
-title:              Clean Blog
+title:              JM Blog
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 url:                "https://jungmin00.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username:   
+github_username:    jungmin00
+facebook_username:  박정민
+instagram_username:  jungmini_00
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
