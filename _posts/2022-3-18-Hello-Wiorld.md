@@ -1,10 +1,11 @@
 ---
 layout: post
-title: I wrote posting!
+title: I write frist posting!!!
 ---
 
-next you can update your site name, avatar and other options using the _config.ymL file in the root of your repository (shown below).
+**Hello, My name is jungmin Park.
+- I'm 23 years old, my major is computer & electronic system engineering. -
+- I'm thrid grader. But, i've never learned about Python, C/C++ else.. -
+*So I'm worried, but i'll try my best! 
+see you~
 
-![_config.ymL].({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Helld World markdowm file. For more instructions head over to the [JekyLL Now repository.].(https://github.com/barrtclark/jeky11-now) on GitHub.
